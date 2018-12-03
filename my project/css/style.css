@@ -1,0 +1,90 @@
+/* Your custom styles */
+.carousel .carousel-indicators li {
+    max-width: 30px;
+    height: 10px;
+    border-radius: 0% !important;
+    cursor: pointer; }
+body{
+    background-color: whitesmoke;
+}
+.logo{
+    position: relative;
+    top: 07px;
+    left: 0px;
+}
+.nav1{
+    background-color:skyblue;
+
+}
+.form-control::placeholder{
+    color: white !important;
+    opacity: 0.5;
+}
+.b1{
+    background-color: skyblue;
+    color: white;
+}
+.dropdown-menu .b1 a:hover{
+    color: orange;
+    background-color: greenyellow;
+}
+
+.b1 a:hover{
+    color:black !important;
+        cursor:pointer;
+    background-color: white;
+    
+}
+.searchdiv{
+    border: 2px solid white;
+}
+.searchbtn{
+    background-color: midnightblue;
+}
+.div{
+    height: 400px;
+    width: 100%;
+}
+.types{
+    color: blue;
+
+}
+.how_it_work{
+    text-decoration: underline;
+    
+}
+.box{
+    
+    width: 100%;
+    background-color: beige;
+}
+.box1{
+
+    width: 100%;
+    background-color: white;
+    border-radius: 30px;
+}
+.learnimg{
+    margin-left: 130px;
+}
+.readmore{
+    margin-left: 90px;
+}
+.box2{
+    background-color:lightgray;
+    height: 220px;
+    width: 100%;
+}
+.spac{
+    padding-right:0;
+    padding-left:0;
+}
+.box5{
+    background-color: ;
+}
+
+.box4{
+
+    width: 100%;
+
+}
